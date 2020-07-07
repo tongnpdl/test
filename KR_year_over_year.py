@@ -11,7 +11,7 @@ import ROOT
 import numpy as np
 import matplotlib.pyplot as plt
 sys.path.append('/Users/kath/icecube2019/pytools')  ## So it can find things without links
-#import livetime
+import livetime
 import hdfchain
 import ic86_geometry
 
